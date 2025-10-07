@@ -1,0 +1,6 @@
+{
+  "name": "CodeGraph Visualizer V1",
+  "description": "An interactive, browser-based tool to visualize code structures as a force-directed graph, inspired by Obsidian. Upload files, explore relationships between code elements, and use an integrated AI chatbot to understand the code.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
